@@ -1,0 +1,25 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "Simple Blog CRUD API with Node, Express and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "blog",
+    "api",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Ankit Kumar Singh",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2",
+    "mongoose": "^6.0.0"
+  }
+}
