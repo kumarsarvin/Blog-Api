@@ -3,7 +3,7 @@
 Simple Blog Backend (CRUD) built with Node.js, Express and MongoDB.
 
 ## Author
-Ankit Kumar Singh
+sarvil chauhan
 
 ## Features
 - Create, Read, Update, Delete blog posts
